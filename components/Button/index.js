@@ -1,7 +1,7 @@
-import React from "react";
-import PropTypes from "prop-types";
-import { View, TouchableOpacity } from "react-native";
-import { FontAwesome } from "@expo/vector-icons";
+import React from 'react';
+import PropTypes from 'prop-types';
+import { View, TouchableOpacity } from 'react-native';
+import { FontAwesome } from '@expo/vector-icons';
 
 function Button({ iconName, onPress }) {
     return (
